@@ -3,8 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:klbm126@gmail.com)](mailto:klbm126@gmail.com)
 
 ### 💼 Careers
-- Toss (2026.06.01. ~ currently)
-- TelePIX (2024.12.02. ~ 2026.05.29.)
+- TelePIX (2024.12.02. ~ currently)
 - TmaxAI (2023.02.15. ~ 2024.11.29.)
 <div>
   
