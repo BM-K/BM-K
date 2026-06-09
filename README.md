@@ -4,6 +4,13 @@
 
 ### 💼 Careers
 - TelePIX (2024.12.02. ~ currently)
+    - Information Retrieval & Reranking
+        - PIXIE Series (Sparse/Dense/Reranking/Multimodal)
+            - 🤗 [PIXIE-v1.5](https://huggingface.co/collections/telepix/pixie-v15)
+            - 🤗 [PIXIE-v1.0](https://huggingface.co/collections/telepix/pixie-v10)
+            - 🤗 [PIXIE-Preview](https://huggingface.co/collections/telepix/pixie-preview)
+    - Domain Specific IR Benchmark
+        - 🤗 [STELLA](https://huggingface.co/datasets/telepix/STELLA)
 - TmaxAI (2023.02.15. ~ 2024.11.29.)
 <div>
   
