@@ -9,8 +9,8 @@
             - 🤗 [PIXIE-v1.5](https://huggingface.co/collections/telepix/pixie-v15)
             - 🤗 [PIXIE-v1.0](https://huggingface.co/collections/telepix/pixie-v10)
             - 🤗 [PIXIE-Preview](https://huggingface.co/collections/telepix/pixie-preview)
-    - Domain Specific IR Benchmark
-        - 🤗 [STELLA](https://huggingface.co/datasets/telepix/STELLA)
+        - Domain Specific IR Benchmark
+            - 🤗 [STELLA](https://huggingface.co/datasets/telepix/STELLA)
 - TmaxAI (2023.02.15. ~ 2024.11.29.)
 <div>
   
